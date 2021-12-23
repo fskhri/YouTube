@@ -4,7 +4,7 @@
 
 *Please note that this application is still in development and some features may be buggy.*
 
-**Some parts of the code have been used from *th-ch's* [**YouTube Music**](https://github.com/th-ch/youtube-music) repository.
+**Some parts of the code have been used from *th-ch's* [**YouTube Music**](https://github.com/th-ch/youtube-music) repository.**
 
 **YouTube application made in [Electron](https://www.electronjs.org/) with:**
 - Additional plugins such as Discord RPC, Disable Log In button, Downloader etc.
