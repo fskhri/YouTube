@@ -28,7 +28,7 @@ This application can be used only on Windows, maybe on different Operating Syste
 
 ## Dev
 
-# Requirements:
+**Requirements:**
 - Node.js
 - Visual Studio Build Tools [otherwise Electron will not be installed]
 
