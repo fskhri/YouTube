@@ -9,7 +9,7 @@
 **YouTube application made in [Electron](https://www.electronjs.org/) with:**
 - Additional plugins such as Discord RPC, Disable Log In button, Downloader etc.
 
-![Screenshot of YouTube](screenshots/screenshot.jpg "Screenshot of YouTube")
+![Screenshot of YouTube](screenshots/screenshot.png "Screenshot of YouTube")
 
 ## How to Download?
 
