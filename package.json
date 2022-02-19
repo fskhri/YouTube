@@ -1,7 +1,8 @@
 {
   "name": "YouTube",
   "version": "1.0.0",
-  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
   "license": "MIT",
   "dependencies": {
     "@cliqz/adblocker-electron": "^1.23.2",
